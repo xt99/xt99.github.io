@@ -655,6 +655,7 @@ form button:hover{
 }
 .section-title.style3 h1{
     font-size: 36px;
+    font-weight: bold;
 }
 .dark-bg .section-title.style3 h1,
 .dark-bg .section-title.style3 h2,
@@ -1459,10 +1460,10 @@ p.big{
     left: 0;
     width: 100%;
     height: 100%;
-    padding-top: 117px;
+    padding-top: 80px;
     padding-right: 0;
     padding-left: 0;
-    background: rgba(68, 102, 82, 0.9);
+    background: rgba(68, 102, 82, 0.95);
     opacity: 0;
     visibility: hidden;
     -webkit-transform: translateX(0) translateY(-50%);
@@ -1491,7 +1492,6 @@ p.big{
 }
 .main-nav-container.style3 .logo-container{
     padding-bottom: 0;
-    margin-bottom: 53px;
 }
 .main-nav-container.style4 .logo-container{
     padding-bottom: 0;
@@ -1514,6 +1514,7 @@ p.big{
     font-family: 'nevis-Bold', sans-serif;
     font-size: 24px;
     line-height: 42px;
+    font-weight: bold;
     color: white;
     background: none;
     padding-left: 0;
@@ -2393,6 +2394,7 @@ p.big{
 .services.style3 .service h2{
     font-family: 'nevis-Bold', sans-serif;
     font-size: 24px;
+    font-weight: bold;
     text-transform: uppercase;
     color: #91a831;
 }
